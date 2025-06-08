@@ -1,0 +1,2 @@
+upload to github
+create a wiki for the tool

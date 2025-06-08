@@ -1,0 +1,12 @@
+class C_SUV_01_F										{ quality = 1; price = 8500; };
+class I_G_Offroad_01_armed_F							{ quality = 2; price = 17000; };
+class O_Truck_02_transport_F							{ quality = 3; price = 25000; };//Exile version is better
+class O_Truck_02_fuel_F									{ quality = 3; price = 30000; };
+class O_Truck_02_box_F									{ quality = 3; price = 35000; };
+class O_Truck_02_Ammo_F									{ quality = 3; price = 40000; };
+class I_Truck_02_MRL_F									{ quality = 6; price = 250000; };//Zamak MRL
+class B_MBT_01_TUSK_F									{ quality = 6; price = 260000; };//M2A4 Slammer UP
+class B_APC_Wheeled_03_cannon_F							{ quality = 5; price = 210000; };//AFV-4 Gorgon//Protected//Skip
+class O_APC_Wheeled_02_rcws_v2_F						{ quality = 5; price = 65000; };//MSE-3 Marid
+class B_Heli_Light_01_F									{ quality = 2; price = 20000; };
+class B_Heli_Light_01_dynamicLoadout_F					{ quality = 4; price = 40000; };

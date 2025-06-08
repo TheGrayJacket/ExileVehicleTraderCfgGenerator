@@ -1,0 +1,226 @@
+////_armaments
+
+//==Cannons==
+//Tankcannon
+["cannon_120mm_long"						,70000],
+["cannon_125mm"								,70000],
+["cannon_125mm_advanced"					,70000],
+["cannon_20mm"								,70000],
+["cannon_railgun"							,70000],
+["CUP_Vacannon_D10"							,70000],
+["CUP_Vacannon_D5_T34"						,70000],
+["CUP_Vcannon_2A46_Txx"						,70000],
+["CUP_Vcannon_L30A1_veh"					,70000],
+["CUP_Vcannon_L55_veh"						,70000],
+["CUP_Vcannon_M256_M1Abrams"				,70000],
+["CUP_Vcannon_M68_veh"						,70000],
+["CUP_Vcannon_M68A2_veh"					,70000],
+	
+//Autocannon&Rotary	
+["autocannon_30mm"							,50000],
+["autocannon_30mm_CTWS"						,50000],
+["autocannon_35mm"							,50000],
+["autocannon_40mm_CTWS"						,50000],
+["CUP_Rarden_CTWS_veh"						,50000],
+["CUP_Vacannon_2A14_veh"					,50000],
+["CUP_Vacannon_2A28"						,50000],
+["CUP_Vacannon_2A38M_veh"					,50000],
+["CUP_Vacannon_2A42_BMP2"					,50000],
+["CUP_Vacannon_2A70_veh"					,50000],
+["CUP_Vacannon_2A72_BPPU"					,50000],
+["CUP_Vacannon_2A72_FCS"					,50000],
+["CUP_Vacannon_AZP23_veh"					,50000],
+["CUP_Vacannon_CTWS_veh"					,50000],
+["CUP_Vacannon_GI2_veh"						,50000],
+["CUP_Vacannon_M230_veh"					,50000],
+["CUP_Vacannon_M242_veh_Bradley"			,50000],
+["CUP_Vacannon_M242_veh_LAV25"				,50000],
+["CUP_Vacannon_M168_M163VADS"				,50000],
+["CUP_Vacannon_M197_veh"					,50000],
+["CUP_Vacannon_Yakb_veh"					,50000],
+	
+//Artillery	
+["cannon_105mm"								,100000],
+["cannon_120mm"								,100000],
+	
+//==Rockets&Missiles==	
+//DirectFire	
+["missiles_DAGR"							,15000],
+["missiles_DAR"								,15000],
+["missiles_SAAMI"							,15000],
+["rockets_Skyfire"							,15000],
+["CUP_Vmlauncher_ub32_technical"			,15000],
+["CUP_Vacannon_SPG9_veh"					,15000],
+	
+//Surface-to-Surface	
+["missiles_titan"							,20000],
+["missiles_Vorona"							,20000],
+["CUP_Vmlauncher_AT13_single_veh"			,20000],
+["CUP_Vmlauncher_AT2_veh"					,20000],
+["CUP_Vmlauncher_AT3_veh"					,20000],
+["CUP_Vmlauncher_AT5_single_veh"			,20000],
+["CUP_Vmlauncher_AT5_veh"					,20000],
+["CUP_Vmlauncher_AT6_veh"					,20000],
+["CUP_Vmlauncher_AT9_veh"					,20000],
+["CUP_Vmlauncher_TOW_single_veh"			,20000],
+["CUP_Vmlauncher_TOW_veh"					,20000],
+["CUP_Vmlauncher_technical"					,20000],
+	
+//Surface-to-Air	
+["missiles_titan_AA"						,20000],
+["CUP_Igla_twice_W"							,20000],
+["CUP_Vmlauncher_9M311_veh"					,20000],
+["CUP_Vmlauncher_9M311M_veh"				,20000],
+["CUP_Vmlauncher_Stinger_vehicle_veh"		,20000],
+	
+//Air-to-surface	
+["missiles_SCALPEL"							,20000],
+["missiles_Firefist"						,20000],
+["CUP_AGM114K_Hellfire_II_Launcher_W"		,20000],
+["CUP_Vmlauncher_AGM114K_veh"				,20000],
+["CUP_Vmlauncher_Kh29L_veh"					,20000],
+//Bombs	
+["GBU12BombLauncher"						,25000],
+["CUP_Vblauncher_Fab250_veh"				,25000],
+["CUP_Vblauncher_KAB250_veh"				,25000],
+	
+//Air-to-Air	
+["missiles_ASRAAM"							,20000],
+["missiles_Jian"							,20000],
+["CUP_AIM9L_SidewinderLauncher_W"			,20000],
+["CUP_Vmlauncher_AIM9L_veh_2Rnd"			,20000],
+["CUP_Vmlauncher_R73_veh"					,20000],
+	
+//Artillery		
+["rockets_230mm_GAT"						,100000],
+["CUP_Vmlauncher_GRAD_ACR_veh"				,100000],
+["CUP_Vmlauncher_GRAD_veh"					,100000],
+["CUP_Vmlauncher_MLRS_veh"					,100000],
+	
+//==MachineGuns==	
+//Miniguns	
+["gatling_20mm"								,6000],
+["gatling_30mm"								,6000],
+["LMG_Minigun_Transport"					,6000],
+["M134_minigun_hmmw"						,6000],
+["M134_minigun_suv"							,6000],
+["CUP_M134"									,6000],
+	
+//HeavyMachineGuns(~12.7mm)
+["HMG_127"									,5000],
+["HMG_127_APC"								,5000],
+["HMG_127_UGV"								,5000],
+["HMG_M2"									,5000],
+["HMG_M2_Mounted"							,5000],
+["DShKM"									,5000],
+["CUP_Vhmg_AGS30_veh"						,5000],
+["CUP_Vhmg_DSHKM_veh"						,5000],
+["CUP_Vhmg_GAU21_MH60_Left"					,5000],
+["CUP_Vhmg_KORD_veh"						,5000],
+["CUP_Vhmg_KPVT_veh"						,5000],
+["CUP_Vhmg_L111A1_veh"						,5000],
+["CUP_Vhmg_M2_AAV_Noeject"					,5000],
+["CUP_Vhmg_M2_CROWS_gunner"					,5000],
+["CUP_Vhmg_M2_HMMWV_veh"					,5000],
+["CUP_Vhmg_M2_M1Abrams_TUSK_Coax"			,5000],
+["CUP_Vhmg_M2_static"						,5000],
+["CUP_Vhmg_M2_veh"							,5000],
+["CUP_Vhmg_M3P_veh"							,5000],
+	
+//LightMachineGuns(~7.62mm)	
+["GR_M240_1"								,2000],
+["PKT_weap_veh"								,2000],
+["MMG_02_coax"								,2000],
+["LMG_coax"									,2000],
+["LMG_coax_ext"								,2000],
+["CUP_M240_veh_W"							,2000],
+["CUP_MG3_noeject_W"						,2000],
+["CUP_Vhmg_PKT_T34"							,2000],
+["CUP_Vhmg_PKT_T90M"						,2000],
+["CUP_Vhmg_PKT_veh"							,2000],
+["CUP_Vhmg_PKT_veh_noeject"					,2000],
+["CUP_Vhmg_PKT_veh_Noeject"					,2000],
+["CUP_Vhmg_PKT_veh_Noeject_FCS"				,2000],
+["CUP_Vhmg_SGMT"							,2000],
+["CUP_Vlmg_L7A2_veh"						,2000],
+["CUP_Vlmg_L94A1_Coax"						,2000],
+["CUP_Vlmg_M134_UH1Y_veh"					,2000],
+["CUP_Vlmg_M134_veh"						,2000],
+["CUP_Vlmg_M240_M1128MGS_Coax"				,2000],
+["CUP_Vlmg_M240_M1Abrams_Coax"				,2000],
+["CUP_Vlmg_M240_M60Patton_Coax"				,2000],
+["CUP_Vlmg_M240_veh"						,2000],
+["CUP_Vlmg_M240_veh_laser"					,2000],
+["CUP_Vlmg_M240_veh3"						,2000],
+["CUP_Vlmg_MG3_coax_veh"					,2000],
+["CUP_Vlmg_MG3_veh_noeject"					,2000],
+	
+//GrenadeLaunchers	
+["GMG_40mm"									,8000],
+["CUP_HKGMG_W"								,8000],
+["CUP_M32_heli"								,8000],
+["CUP_Vgmg_AGS17_veh"						,8000],
+["CUP_Vgmg_HKGMG_veh"						,8000],
+["CUP_Vgmg_MK19_AAV"						,8000],
+["CUP_Vgmg_MK19_veh"						,8000],
+	
+//==Mortars==	
+["mortar_155mm_AMOS"						,80000],
+["CUP_mortar_82mm_veh"						,80000],
+["CUP_Vmortar_M121"							,80000],
+	
+//==OTHER==	
+//LaserDesignators	
+["Laserdesignator_mounted"					,1000],
+["Laserdesignator_vehicle"					,1000],
+["CUP_Laserdesignator_mounted"				,1000],
+	
+//SmokeLaunchers	
+["SmokeLauncher"							,1000],
+	
+//Resource(UI-relatedclass)	
+["RscOptics_AH1Z_FLIR"						,0],
+["RscOptics_APC_Tracked_01_gunner"			,0],
+["RscOptics_APC_Tracked_03_gunner"			,0],
+["RscOptics_APC_Wheeled_01_gunner"			,0],
+["RscOptics_APC_Wheeled_03_gunner"			,0],
+["RscOptics_crows"							,1000],
+["RscOptics_GENERAL_FLIR"					,0],
+["RscOptics_Heli_Attack_01_gunner"			,0],
+["RscOptics_Heli_Attack_02_gunner"			,0],
+["RscOptics_MBT_01_gunner"					,0],
+["RscOptics_MBT_02_gunner"					,0],
+["RscOptics_MBT_02_Railgun_gunner"			,0],
+["RscOptics_MBT_03_gunner"					,0],
+["RscOptics_Offroad_01"						,0],
+["RscOptics_Strider_commander"				,0],
+["RscOptics_UAV_gunner"						,0],
+["RscOptics_UGV_02_Demining_gunner"			,0],
+["RscOptics_UGV_02_Science_gunner"			,0],
+["RscOptics_UGV_gunner"						,0],
+["RscOpticsRangeFinderVorona"				,0],
+["RscWeaponRangeArtillery"					,0],
+["RscWeaponRangeArtilleryAuto"				,0],
+["RscWeaponRangeFinder"						,0],
+["RscWeaponRangeZeroing"					,0],
+["RscWeaponZeroing"							,0],
+["CUP_RscOptics_commander_ECO"				,0],
+["CUP_RscOptics_commander_NBECO"			,0],
+["CUP_RscOptics_commander_NECO"				,0],
+["CUP_RscOptics_gunner_C"					,0],
+["CUP_RscOptics_gunner_CO"					,0],
+["CUP_RscOptics_gunner_LAV25"				,0],
+["CUP_RscOptics_gunner_NECO"				,0],
+["CUP_RscOptics_gunner_NLECO"				,0],
+["CUP_RscOptics_gunner_TNBECO"				,0],
+["CUP_RscOptics_gunner_TNLECO"				,0],
+
+[//OtherMiscellaneous	
+["FakeHorn"									,0],
+["cannon_railgun_fake"						,0],
+["DeminingDisruptor_01_F"					,0],
+["ProbingLaser_01_F"						,0],
+["ProbingWeapon_01_F"						,0],
+["ProbingWeapon_02_F"						,0],
+["CUP_weapon_mastersafe"					,0]
+

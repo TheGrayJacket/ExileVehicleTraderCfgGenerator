@@ -1,0 +1,46 @@
+CfgExileArsenal	- a cfg specific to Arma 3 Exile Mod which lists objects that can be sold by attaching a price to each classname.
+CfgTraderCategories - a cfg specific to Arma 3 Exile Mod which in addition to CfgExileArsenal allows players to buy objects if their respect level is high enough.
+
+////ExileTraderCfgGenerator
+
+Description:
+
+This script automatically detects vehicle classes in CfgVehicles and filters them to construct an output which can be either put onto a spreadsheet or to be made into CfgExileArsenal and/or CfgExileArsenal file.
+
+In addition to attributes and their respective values being taken out of CfgVehicles (for each filtered classname) the script also calculates the price and respect level for each vehicle (which is actually necessary for CfgExileArsenal and/or CfgExileArsenal to work)
+
+Features:
+
+1. Extensive config options - user can filter classnames based on:
+	- Mod
+	- Vehicle Type (car, MRAP, Tracked, truck etc.)
+	- Custom filter (made by user)
+
+2. Calculate appropriate price - all vehicles are fairly evaluated based on relevant selected attributes:
+	- Defense Score:
+		• "armor"
+		• "armorstructural"
+		• "explosionShielding"
+		• "crewExplosionProtection"
+	- Utility Score
+		• "transportAmmo"
+		• "transportFuel"
+		• "transportRepair"
+		• "attendant"
+	- Mobility Score
+		• "maxSpeed"
+		• "terrainCoef"
+	- Cargo Score
+		• "maximumLoad"
+	- Armaments Score
+		• armaments (script reads through all weapons vehicle has and adds score for each armament class that passes its filter)
+
+3. Score adjustment settings - user can adjust score based on extensive global config variables, such as:
+	- Poptabs per armor point
+	- Poptabs for ability to refuel/repair/rearm/heal
+	- Poptabs per speed (in km/h)
+	- Poptabs per "maximumLoad" value
+	- Poptabs per each armament installed
+	- and much much more
+
+4. Detailed debugging features - when turned on, user can easily run tests which display the status and values for almost all variables and ALSO limit the scope of iterations that the script runs, allowing to properly fine-tune their setting before pushing for a final output.

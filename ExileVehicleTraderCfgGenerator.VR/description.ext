@@ -1,0 +1,18 @@
+////description.ext
+class CfgFunctions {
+    class EVTCG {
+        class Main {
+            file = "functions";
+            class applyFilters {};
+			class calculateArmamentScore {};
+			class calculateCargoScore {};
+			class calculateDefenseScore {};
+			class calculateMobilityScore {};
+			class calculateRespect {};
+			class calculateTotalScore {};
+			class calculateUtilityScore {};
+			class getArmaments {};
+			class vehTypeMultiplier {};
+        };
+    };
+};

@@ -1,0 +1,24 @@
+Armor: 5 - 100 (EHP: 20 - 400)
+if the vehicle has any utility, respect level should go up +1 (even if it has multiple)MaxSpeed: 35 - 300 (SUV and sport cars can reach above 200)
+cargo has to be irrelevant...
+no guns
+
+
+So If vehicle has above 400 EHP: +1
+if vehicle has any utility: +1
+If it has maxspeed of above 200: +1
+
+
+If it has these three, with no armaments, it should be fair...
+
+Then we go for armaments. But before that:
+
+If vehicle is a tank,  +5
+If vehicle is a helicopter,  +1
+If vehicle has artillery,  +6
+If vehicle has mortars,  +6
+If vehicle has HMG, LMG or any machine gun, +1
+If vehicle has GMG or rockets/missiles +2
+
+
+If 

@@ -1,0 +1,5 @@
+Relevant attributes that can be used in filtering:
+
+Backpack: configfile >> "CfgVehicles" >> "B_Carryall_ocamo_Eng" >> "isbackpack" (number: 1-true, 0 or nil-false)
+Human/Unit: configfile >> "CfgVehicles" >> "B_CTRG_Soldier_F" >> "isMan" (same as above)
+UAV: configfile >> "CfgVehicles" >> "B_UAV_06_F" >> "isUav"
